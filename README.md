@@ -54,27 +54,23 @@ This app allows users to enter a sentence or paragraph and instantly detect the 
 
 🔐 Login Page
 
-
-
-🏠 Dashboard
-
-
+![login](images/login.png)
 
 💬 Analyze Page
 
-
+![analyze](images/analyze.png)
 
 📜 History Page
 
-
+![history](images/history.png)
 
 📊 Compare Page
 
-
+![compare](images/compare.png)
 
 📈 Statistics Page
 
-
+![statistics](images/statistics.png)
 
 
 
@@ -146,7 +142,7 @@ Clone the repository:
 
 
 
-git clone https://github.com/your-username/emotion-detection-app.git
+git clone https://github.com/sahanakshendre/emotion-detection-app.git
 
 
 
